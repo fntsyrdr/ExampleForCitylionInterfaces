@@ -1,0 +1,4 @@
+name: ExampleInterfaceFunctions
+version: '${project.version}'
+main: com.fntsyrdr.exampleinterfacefunctions.ExampleInterfaceFunctions
+api-version: 1.19
